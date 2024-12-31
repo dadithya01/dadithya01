@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=dadithya01&color=447ff7&label=Visitor+count)
 
 ## 🏆 GitHub Trophies:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/dadithya01">
   <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=dadithya01&row=4&theme=onedark&no-frame=true"/>
 </a>
 </br>
@@ -40,7 +40,7 @@
 
 ## 🔥 Github Stats:
 
-<a href="https://github.com/dadithya01"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dadithya01&theme=bear" width=750  alt="stats graph"/></a>
+<a href="https://github.com/dadithya01"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dadithya01&theme=bear" width="65%"  alt="stats graph"/></a>
 <a href="https://github.com/dadithya01"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=dadithya01&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 </br>
