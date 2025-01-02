@@ -12,7 +12,7 @@
 </br>
 </br>
 
-- 🌱 I’m currently learning everything <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+- 🌱 I’m currently learning everything 
 - 🔭 I’m currently learn in Institute of Software Engineering <a href="https://www.ijse.lk">(IJSE)<a/>
 - 💡 I love innovation and new technologies
 </br>
@@ -46,4 +46,4 @@
 </br>
 Thanks! :heart:
 
-<img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" />
+<img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" /> 
