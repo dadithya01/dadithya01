@@ -41,7 +41,6 @@
 ## 🔥 Github Stats:
 
 <a href="https://github.com/dadithya01"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dadithya01&theme=bear" width="70%"  alt="stats graph"/></a>
-<a href="https://github.com/dadithya01"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=dadithya01&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 </br>
 Thanks! :heart:
