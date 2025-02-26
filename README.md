@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Duvindu Adithya ^_^</h1>
+<h1 align="center">Hi 👋, I'm Duvindu Adithya</h1>
 <h3 align="center">A Software engineer student in Sri Lanka 🇱🇰​</h3>
 
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
@@ -43,6 +43,4 @@
 <a href="https://github.com/dadithya01"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dadithya01&theme=bear" width="70%"  alt="stats graph"/></a>
 
 </br>
-Thanks! :heart:
-
-<img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" /> 
+Thank you! :heart:👋
