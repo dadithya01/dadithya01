@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duvindu Adithya</h1>
 <h3 align="center">A Software engineer student in Sri Lanka 🇱🇰​</h3>
 
-<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-
 ![](https://komarev.com/ghpvc/?username=dadithya01&color=447ff7&label=Visitor+count)
 
 ## 🏆 GitHub Trophies:
@@ -12,10 +10,8 @@
 </br>
 </br>
 
-- 🌱 I’m currently learning everything 
 - 🔭 I’m currently learn in Institute of Software Engineering <a href="https://www.ijse.lk">(IJSE)<a/>
 - 💡 I love innovation and new technologies
-</br>
 </br>
 
 ## 💻 Languages and Tools:
